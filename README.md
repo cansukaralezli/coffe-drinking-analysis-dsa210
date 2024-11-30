@@ -31,6 +31,7 @@ This project aims to:
 * Combine Starbucks transaction data with health app metrics and external data sources (weather and exam schedules).
 * Ensure all datasets are consistent, fill in missing data points, and align timestamps.
 * Visualize coffee consumption trends over time.
+* Conduct a detailed analysis of trends, identifying patterns as well as unusual spikes or drops in coffee consumption.
 * Identify correlations between coffee habits, daily activities, and external factors.
 * Use statistical techniques to quantify relationships (e.g., regression analysis between coffee and health metrics).
 * Summarize key findings about my habits and the role coffee plays in my daily life.
