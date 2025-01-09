@@ -1,5 +1,7 @@
 # coffe-drinking-analysis-dsa210
-Sabanci University CS210 Introduction to Data Science Course Fall 2024-2025 Term Project. This project will be an analysis on my coffee drinking habits.
+Sabanci University CS210 Introduction to Data Science Course Fall 2024-2025 Term Project. This project will be an analysis on my coffee drinking habits.<br><br>
+For the final report please see my [Text to Display]([https://your-website-url.com](https://sites.google.com/sabanciuniv.edu/dsa210-project-cansu-karalezli/introduction))
+
 
 **MOTIVATION**<br>
   This project's goal is to examine my coffee consumption patterns and how they impact my everyday activities. It also aims to determine how outside variables, such as location, exam weeks, and weather, affect my coffee preferences. Coffee plays a crucial role in my routine, acting as both a productivity booster and a comfort beverage. By studying these patterns, I aim to identify the underlying triggers and impacts of my coffee habits on my life and help me make more informed decisions about my coffee consumption.
