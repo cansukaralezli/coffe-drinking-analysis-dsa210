@@ -1,6 +1,6 @@
 # coffe-drinking-analysis-dsa210
 Sabanci University CS210 Introduction to Data Science Course Fall 2024-2025 Term Project. This project will be an analysis on my coffee drinking habits.<br><br>
-For the final report please see my [webpage]([https://your-website-url.com](https://sites.google.com/sabanciuniv.edu/dsa210-project-cansu-karalezli/introduction))
+For the final report please see my [webpage](https://sites.google.com/sabanciuniv.edu/dsa210-project-cansu-karalezli/introduction)
 
 
 **MOTIVATION**<br>
