@@ -1,5 +1,6 @@
 # coffe-drinking-analysis-dsa210
 Sabanci University CS210 Introduction to Data Science Course Fall 2024-2025 Term Project. This project will be an analysis on my coffee drinking habits.<br><br>
+All the coding material that i have used is available on githup repository<br>
 For the final report please see my [webpage](https://sites.google.com/sabanciuniv.edu/dsa210-project-cansu-karalezli/introduction)
 
 
@@ -37,6 +38,9 @@ This project aims to:
 * Identify correlations between coffee habits, daily activities, and external factors.
 * Use statistical techniques to quantify relationships (e.g., regression analysis between coffee and health metrics).
 * Summarize key findings about my habits and the role coffee plays in my daily life.
+
+
+
 
     
 
